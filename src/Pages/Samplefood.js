@@ -482,10 +482,11 @@ width:92%;
 color : #30384d;
 background-color: #e8e3e8;
 
-:focus-visible {
+/* :focus-visible {
     outline: unset
-}
+} */
 
+outline:none;
 ::placeholder{
     color:#7e8a9a;
 }
